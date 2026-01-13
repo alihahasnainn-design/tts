@@ -1,5 +1,5 @@
 streamlit
 openai-whisper
-pyttsx3
+gTTS
 pydub
 setuptools
