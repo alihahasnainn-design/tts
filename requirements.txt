@@ -1,10 +1,5 @@
-# requirements.txt
-# Install with: pip install -r requirements.txt
-# Note: On some systems, you may need additional dependencies like portaudio for pyaudio (used by speech_recognition).
-# For Linux: sudo apt-get install python3-pyaudio
-# For Windows/Mac: pip install pyaudio
-
-gradio
+streamlit
+openai-whisper
 pyttsx3
-speechrecognition
-pocketsphinx
+pydub
+setuptools
