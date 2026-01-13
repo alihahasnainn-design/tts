@@ -1,5 +1,7 @@
 streamlit
 openai-whisper
 gTTS
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
 pydub
 setuptools
